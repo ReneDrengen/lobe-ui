@@ -64,7 +64,7 @@ const MaterialFileTypeIcon = memo<MaterialFileTypeIconProps>(
         width={size}
         {...rest}
       >
-        <FileTypeIcon size={size} type={variant} variant={'mono'} />
+        <FileTypeIcon type={variant} variant={'mono'} />
         <Img
           height={size / 2}
           src={iconUrl}
