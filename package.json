@@ -1,6 +1,6 @@
 {
   "name": "@lobehub/ui",
-  "version": "1.150.5",
+  "version": "1.151.4",
   "description": "Lobe UI is an open-source UI component library for building AIGC web apps",
   "keywords": [
     "lobehub",
@@ -161,6 +161,7 @@
     "semantic-release": "^21.1.2",
     "stylelint": "^15.11.0",
     "typescript": "^5.5.4",
+    "umi": "4.3.16",
     "unist-util-is": "^6.0.0",
     "unist-util-visit": "^5.0.0",
     "vitest": "~1.2.2"
